@@ -34,7 +34,7 @@ Benvenuto nel mio portfolio GitHub! Qui trovi i progetti principali a cui ho lav
 
 ## Progetti
 
-## - [Manage BnB](https://github.com/christiangreco-01/manage-bnb)  
+## - [Gestione BnB](https://github.com/christiangreco-01/manage-bnb)  
 ## Web app per la gestione di un B&B.
 Consente l'inserimento di prenotazioni e spese, e offre una visualizzazione dettagliata delle statistiche relative agli introiti e alle caratteristiche degli ospiti tramite dei grafici PivoChart, con l'obiettivo di supportare decisioni gestionali più informate.
 
