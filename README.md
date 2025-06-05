@@ -1,4 +1,4 @@
-# ---------------------------------------------------------------- ENGLISH ------------------------------------------------------------
+# ----------------------- ENGLISH -----------------------------
 # My Portfolio
 Welcome to my GitHub portfolio! Here you'll find the main projects I've worked on.
 
@@ -27,7 +27,7 @@ Includes:
 -Password reset functionality in the profile page.
 -User data is temporarily stored in Local Storage (since this is a demo project and not connected to a real database).
 
-# ---------------------------------------------------------------- ITALIANO ------------------------------------------------------------
+# ------------------------ ITALIANO --------------------------
 
 # Il mio Portfolio
 
