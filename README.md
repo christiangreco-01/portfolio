@@ -1,3 +1,33 @@
+# My Portfolio
+Welcome to my GitHub portfolio! Here you'll find the main projects I've worked on.
+
+## Projects
+## - [Manage BnB](https://github.com/christiangreco-01/manage-bnb) 
+# Web app for managing a B&B.
+It allows users to enter bookings and expenses, and provides a detailed visualization of revenue and guest characteristics through PivoChart graphs, with the goal of supporting more informed management decisions.
+
+The app is developed in React using MUI components (Material UI, a library based on Google's Material Design system). Forms are managed with Formik in combination with Yup, making the data flow more secure and efficient while reducing unnecessary re-renders.
+
+Data is stored in Supabase, an open-source alternative to Firebase, which also manages user authentication through unique tokens.
+
+Access credentials for the web app:
+username: christiangreco2001@gmail.com
+password: christian
+
+## - [Netflix](https://github.com/christiangreco-01/netflix)
+## Netflix Front-End Clone – Personal Project
+One of my first projects, developed to practice HTML, CSS, and JavaScript, with the goal of replicating the visual and functional aspects of the Netflix interface.
+Although some features are only simulated (not fully active), this project helped me strengthen my foundational understanding of web development logic.
+
+Includes:
+-Custom authentication system with registration and login.
+-Plan selection screen after registration.
+-Dynamic home screen populated through API requests to TheMovieDB, with category-based movie filtering.
+-Password reset functionality in the profile page.
+-User data is temporarily stored in Local Storage (since this is a demo project and not connected to a real database).
+
+-- ITALIANO 
+
 # Il mio Portfolio
 
 Benvenuto nel mio portfolio GitHub! Qui trovi i progetti principali a cui ho lavorato.
