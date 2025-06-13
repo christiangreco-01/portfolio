@@ -27,13 +27,13 @@ Includes:
 -Password reset functionality in the profile page.
 -User data is temporarily stored in Local Storage (since this is a demo project and not connected to a real database).
 
-## - [Html-CSS3 Training]
+## - Html-CSS3 Training
+Front-end training project focused on replicating typical website layouts — including summaries, pricing plans, and business pages — using HTML and CSS3.
 ## [subscription plans](https://github.com/christiangreco-01/training_subscription_plans)
 ## [points resume](https://github.com/christiangreco-01/training_points_resume)
 ## [single page Fylo](https://github.com/christiangreco-01/training_single_page_Fylo)
 ## [recipe page](https://github.com/christiangreco-01/training_recipe_page)
 ## [scelta piano](https://github.com/christiangreco-01/sceltaPiano)
-Front-end training project focused on replicating typical website layouts — including summaries, pricing plans, and business pages — using HTML and CSS3.
 
 # ------------------------ ITALIANO --------------------------
 
@@ -67,10 +67,10 @@ Include:
 - Funzione di reset della password nella pagina profilo.
 - Le informazioni utente sono temporaneamente salvate nel Local Storage (non essendo collegato a un database esterno, trattandosi di un progetto dimostrativo).
 
-## - [Html-CSS3 Training]
+## - Html-CSS3 Training
+Progetto di esercitazione front-end volto a ricreare layout comuni del web (summaries, pagine aziendali, piani di abbonamento) utilizzando HTML e CSS3.
 ## [subscription plans](https://github.com/christiangreco-01/training_subscription_plans)
 ## [points resume](https://github.com/christiangreco-01/training_points_resume)
 ## [single page Fylo](https://github.com/christiangreco-01/training_single_page_Fylo)
 ## [recipe page](https://github.com/christiangreco-01/training_recipe_page)
 ## [scelta piano](https://github.com/christiangreco-01/sceltaPiano)
-Progetto di esercitazione front-end volto a ricreare layout comuni del web (summaries, pagine aziendali, piani di abbonamento) utilizzando HTML e CSS3.
