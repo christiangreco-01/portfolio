@@ -27,6 +27,14 @@ Includes:
 -Password reset functionality in the profile page.
 -User data is temporarily stored in Local Storage (since this is a demo project and not connected to a real database).
 
+## - [Html-CSS3 Training]
+## (https://github.com/christiangreco-01/training_subscription_plans)
+## (https://github.com/christiangreco-01/training_points_resume)
+## (https://github.com/christiangreco-01/training_single_page_Fylo)
+## (https://github.com/christiangreco-01/training_recipe_page)
+## (https://github.com/christiangreco-01/sceltaPiano)
+Front-end training project focused on replicating typical website layouts — including summaries, pricing plans, and business pages — using HTML and CSS3.
+
 # ------------------------ ITALIANO --------------------------
 
 # Il mio Portfolio
@@ -58,3 +66,11 @@ Include:
 - Schermata principale dinamica, popolata tramite chiamata API a TheMovieDB, con film filtrati per categoria.
 - Funzione di reset della password nella pagina profilo.
 - Le informazioni utente sono temporaneamente salvate nel Local Storage (non essendo collegato a un database esterno, trattandosi di un progetto dimostrativo).
+
+## - [Html-CSS3 Training]
+## (https://github.com/christiangreco-01/training_subscription_plans)
+## (https://github.com/christiangreco-01/training_points_resume)
+## (https://github.com/christiangreco-01/training_single_page_Fylo)
+## (https://github.com/christiangreco-01/training_recipe_page)
+## (https://github.com/christiangreco-01/sceltaPiano)
+Progetto di esercitazione front-end volto a ricreare layout comuni del web (summaries, pagine aziendali, piani di abbonamento) utilizzando HTML e CSS3.
